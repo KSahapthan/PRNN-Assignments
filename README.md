@@ -8,7 +8,7 @@ All of them are Basic Scratch Implementations of common ML architectures includi
 4) Logistic Regression
 5) Linear Regression
 
-The file PRNN_A1_Q5 contains the following Implementations:
+The file PRNN_A1_Q5 contains the following Implementations for a multi-class data given in the course:
 1) Bayes’ classifiers with 0-1 loss assuming Normal distribution for MLE estimate
 2) General GMMs for class-conditional densities with coded up EM-algorithm
 3) Parzen window with 2 different kernels
