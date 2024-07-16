@@ -1,7 +1,12 @@
 # PRNN-Assignments
 Assignments for PRNN course at IISC,ECE Dept.
 
-All of them are Basic Scratch Implementations of common ML architectures under respective folder.
+All of them are Basic Scratch Implementations of common ML architectures including the backprop under respective folder:
+1) Deep Neural Network
+2) Convolutional Neural Network
+3) Self-attention Transformer
+4) Logistic Regression
+5) Linear Regression
 
 The file PRNN_A1_Q5 contains the following Implementations:
 1) Bayes’ classifiers with 0-1 loss assuming Normal distribution for MLE estimate
