@@ -1,5 +1,5 @@
 # PRNN-Assignments
-Assignments for PRNN course at IISC,ECE Dept.
+Assignments for PRNN course at IISc,ECE Dept
 
 All of them are Basic Scratch Implementations of common ML architectures including the backprop under respective folder:
 1) Deep Neural Network
