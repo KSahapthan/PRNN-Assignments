@@ -13,4 +13,4 @@ The file PRNN_A1_Q5 contains the following Implementations for a multi-class dat
 2) General GMMs for class-conditional densities with coded up EM-algorithm
 3) Parzen window with 2 different kernels
 4) K-nearest neighbours with 2 different distance metrics
-5) Linear classifier 0 vs R
+5) Linear classifier 1 vs Rest
